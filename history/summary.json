@@ -1,8 +1,8 @@
 [
   {
     "name": "Website",
-    "url": "https://charge-v1.vercel.app/",
-    "icon": "https://icons.duckduckgo.com/ip3/charge-v1.vercel.app.ico",
+    "url": "https://charge-v2.vercel.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/charge-v2.vercel.app.ico",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 154,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "time": 168,
+    "timeDay": 158,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   }
 ]
