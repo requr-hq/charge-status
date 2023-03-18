@@ -1,20 +1,20 @@
 [
   {
-    "name": "Website",
+    "name": "Charge waitlist",
     "url": "https://www.usecharge.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usecharge.co.ico",
-    "slug": "website",
+    "slug": "charge-waitlist",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 122,
-    "timeWeek": 126,
-    "timeMonth": 116,
-    "timeYear": 115,
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   }
 ]
