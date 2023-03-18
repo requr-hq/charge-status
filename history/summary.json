@@ -1,8 +1,8 @@
 [
   {
     "name": "Website",
-    "url": "https://charge-v2.vercel.app/",
-    "icon": "https://icons.duckduckgo.com/ip3/charge-v2.vercel.app.ico",
+    "url": "https://www.usecharge.co/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.usecharge.co.ico",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 126,
-    "timeWeek": 128,
+    "timeDay": 122,
+    "timeWeek": 126,
     "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {}
