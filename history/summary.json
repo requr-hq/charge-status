@@ -4,17 +4,19 @@
     "url": "https://www.usecharge.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usecharge.co.ico",
     "slug": "charge-waitlist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 62,
-    "timeWeek": 141,
-    "timeMonth": 106,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "time": 116,
+    "timeDay": 57,
+    "timeWeek": 130,
+    "timeMonth": 105,
+    "timeYear": 116,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]
