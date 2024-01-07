@@ -6,17 +6,15 @@
     "slug": "charge-waitlist",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 1092,
-    "timeWeek": 550,
-    "timeMonth": 325,
+    "timeWeek": 553,
+    "timeMonth": 326,
     "timeYear": 138,
-    "dailyMinutesDown": {
-      "2024-01-06": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
